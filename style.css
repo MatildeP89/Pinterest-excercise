@@ -28,6 +28,7 @@ h1 {
 .card {
     position: relative;
     transition: transform 1s;
+    overflow: hidden;
 }
 
 #gallery {
